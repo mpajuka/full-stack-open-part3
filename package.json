@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/mpajuka/full-stack-open-2023-part3#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
